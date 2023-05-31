@@ -7,7 +7,7 @@ This amazing app is provided in open source. So, helpful contributions are highl
 ## ScreenShots
 
 
-| <img src="ss.png"  width="300"/>
+| <img src="ss.png"  width="700"/>
 ---
 
 ### :heart: Found this project useful?
