@@ -1,6 +1,6 @@
 var typed = new Typed (".over",{
-    strings: ["Frontend Developer" , "UI/UX Designer" , "Backend Developer " ,
-     "Android Developer" ] ,
+    strings: ["Save The World" , "Time to Attack" , "Be Ready" ,
+     "Time To Go" ] ,
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -9,6 +9,6 @@ var typed = new Typed (".over",{
 }) 
 
 let docTitle = document.title;
-window.addEventListener("blur", () => {document.title = "Come BAck Later";});
+window.addEventListener("blur", () => {document.title = "Ready For a War";});
 
 window.addEventListener("focus", () => { document.title = docTitle; });
